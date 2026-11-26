@@ -19,3 +19,4 @@ dnspython
 pycryptodome
 cloudscraper
 uvloop
+m3u8
